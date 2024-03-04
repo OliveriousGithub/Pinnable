@@ -15,3 +15,5 @@ View and download the GitHub Repository (Windows Build Executable) - OliveriousG
 Play from the browser via Itch.io - https://oliveriousgames.itch.io/pinnable
 
 Source code (main unity files) version 2022.3.10f1 a.o v0.2.2-beta - https://drive.google.com/file/d/1jQejgr3IvXVX_hCvFwTxIqnULgTXbccS/view?usp=sharing
+
+Unpacked windows build v0.2.2-beta-windows - https://drive.google.com/file/d/1YqSrWwPERK_jfXSDRA3HqpCAMmcv2To1/view?usp=sharing
