@@ -1,7 +1,3 @@
-[DISCONTINUED AND UNFINISHED]
-
-_This was my first "real" unity project and I've decided to not continue this game until v1.0. This is mainly due to a new idea which will benefit my college assignment's criteria and will be more enjoyable due to a better choice of gameplay, sprites and animations. When I started this game, I didn't even know what a prefab was, and I had the most despair coding methods that I now look at this in shame. Which is GOOD! I have much higher hopes for my next project and it's all thanks to what I've learned here. PS: I may still finish this project, but it's with the motive of college assignments rather than personal "hobby" motivation._
-
 Collect marbles falling through lines of moving pins, rack up points and avoid the red!
 
 Gameplay Guide: Guide the bucket with your mouse cursor to collect the falling marbles from above. Avoid collecting red marbles as they will cause damage, with large red marbles instantly killing you.
